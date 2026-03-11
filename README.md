@@ -1,5 +1,13 @@
 # Apple Music A/B Experiment Analysis
 
+## Project Preview
+
+This experiment simulates how a product team might evaluate a new feature before releasing it to users.
+
+The proposed feature is **Mood-Based Playlist Recommendations** in Apple Music, which suggests playlists based on user context (focus, workout, relaxation, etc.).
+
+The analysis compares user engagement between a **control group** (standard recommendations) and a **test group** (mood-based playlists).
+
 ## Overview
 This project simulates an A/B experiment to evaluate a proposed Apple Music feature: **Mood-Based Playlist Recommendations**.
 
